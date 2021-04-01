@@ -1,0 +1,16 @@
+.class-order {
+  display: flex;
+  justify-content: space-around;
+  float: right;
+}
+
+.class-order1_lists,
+.class-order2_lists {
+  border: 1px solid black;
+  width: 600px;
+}
+
+.class-order1_list:hover,
+.class-order2_list:hover {
+  color: blue;
+}
