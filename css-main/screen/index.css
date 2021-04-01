@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;800&family=New+Tegomin&family=Train+One&display=swap");
+
+body {
+  background-color: beige;
+  height: 100vh;
+  background-image: url("image/space.jpg");
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-family: "New Tegomin", serif;
+  font-size: 100px;
+  margin-bottom: 0px;
+}
+
+.index-find {
+  display: flex;
+  justify-content: center;
+}
+
+.index-find_text {
+  margin: 30px 0px;
+  width: 300px;
+  height: 30px;
+}
+.index-find_button {
+  width: 35px;
+  height: 35px;
+  margin: 30px 0px;
+}
+
+.index-main {
+  display: flex;
+  justify-content: space-around;
+  margin: 100px 0px;
+  font-family: "New Tegomin", serif;
+}
+.index-main_low {
+  margin-top: 50px;
+}
+
+.index-main_first {
+  width: 180px;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-weight: 900;
+  color: white;
+  border-radius: 50%;
+  background-size: 415px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.item1 {
+  transition: all ease-in-out 0.3s;
+}
+.item1:hover {
+  transform: scale(1.2);
+}
+
+.item2 {
+  transition: all ease-in-out 0.3s;
+}
+.item2:hover {
+  transform: scale(1.2);
+}
+
+.item3 {
+  transition: all ease-in-out 0.3s;
+}
+.item3:hover {
+  transform: scale(1.2);
+}
+
+.item4 {
+  transition: all ease-in-out 0.3s;
+}
+.item4:hover {
+  transform: scale(1.2);
+}
+
+.item5 {
+  transition: all ease-in-out 0.3s;
+}
+.item5:hover {
+  transform: scale(1.2);
+}
+
+.item6 {
+  transition: all ease-in-out 0.3s;
+}
+.item6:hover {
+  transform: scale(1.2);
+}

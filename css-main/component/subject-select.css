@@ -1,0 +1,181 @@
+h1 {
+  font-family: "Nanum Myeongjo", serif;
+}
+
+.subject {
+  display: flex;
+  justify-content: space-around;
+}
+
+.subject-select {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  font-weight: 600;
+  color: #ecf0f1;
+}
+
+.subject-select_국어 {
+  background-color: #f1c40f;
+}
+.subject-select_국어1,
+.subject-select_국어2,
+.subject-select_국어3,
+.subject-select_국어4,
+.subject-select_국어5,
+.subject-select_국어6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_수학 {
+  background-color: #e67e22;
+}
+.subject-select_수학1,
+.subject-select_수학2,
+.subject-select_수학3,
+.subject-select_수학4,
+.subject-select_수학5,
+.subject-select_수학6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_안전 {
+  background-color: #e74c3c;
+}
+.subject-select_안전1,
+.subject-select_안전2 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_봄 {
+  background-color: #fd79a8;
+}
+.subject-select_봄1,
+.subject-select_봄2 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_여름 {
+  background-color: #3498db;
+}
+.subject-select_여름1,
+.subject-select_여름2 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_가을 {
+  background-color: #d35400;
+}
+.subject-select_가을1,
+.subject-select_가을2 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_겨울 {
+  background-color: #95a5a6;
+}
+.subject-select_겨울1,
+.subject-select_겨울2 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_사회 {
+  background-color: #f3a683;
+}
+.subject-select_사회3,
+.subject-select_사회4,
+.subject-select_사회5,
+.subject-select_사회6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_과학 {
+  background-color: #596275;
+}
+.subject-select_과학3,
+.subject-select_과학4,
+.subject-select_과학5,
+.subject-select_과학6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_도덕 {
+  background-color: #778beb;
+}
+.subject-select_도덕3,
+.subject-select_도덕4,
+.subject-select_도덕5,
+.subject-select_도덕6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_미술 {
+  background-color: #e77f67;
+}
+.subject-select_미술3,
+.subject-select_미술4,
+.subject-select_미술5,
+.subject-select_미술6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_영어 {
+  background-color: #cf6a87;
+}
+.subject-select_영어3,
+.subject-select_영어4,
+.subject-select_영어5,
+.subject-select_영어6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_음악 {
+  background-color: #786fa6;
+}
+.subject-select_음악3,
+.subject-select_음악4,
+.subject-select_음악5,
+.subject-select_음악6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.subject-select_체육 {
+  background-color: #ea8685;
+}
+.subject-select_체육3,
+.subject-select_체육4,
+.subject-select_체육5,
+.subject-select_체육6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
