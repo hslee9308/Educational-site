@@ -2,15 +2,40 @@
   display: flex;
   justify-content: space-around;
   float: right;
+  box-sizing: border-box;
+  width: 95%;
+}
+
+.class-order1_title,
+.class-order2_title {
+  border: 1px solid black;
+  width: 100px;
+  display: flex;
+  justify-content: center;
 }
 
 .class-order1_lists,
 .class-order2_lists {
   border: 1px solid black;
-  width: 600px;
+  width: 500px;
+  box-sizing: border-box;
+  background-color: #ffda79;
+}
+
+.class-order1_lists > h3,
+.class-order2_lists > h3 {
+  display: flex;
+  justify-content: center;
+  background-color: #ccae62;
 }
 
 .class-order1_list:hover,
 .class-order2_list:hover {
   color: blue;
+}
+
+.class-order1_list,
+.class-order2_list {
+  margin: 10px 10px;
+  font-weight: 600;
 }
