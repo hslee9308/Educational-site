@@ -27,6 +27,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_수학 {
@@ -41,6 +43,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_안전 {
@@ -51,6 +55,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_봄 {
@@ -61,6 +67,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_여름 {
@@ -71,6 +79,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_가을 {
@@ -81,6 +91,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_겨울 {
@@ -91,6 +103,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_사회 {
@@ -103,6 +117,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_과학 {
@@ -115,6 +131,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_도덕 {
@@ -127,6 +145,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_미술 {
@@ -139,6 +159,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_영어 {
@@ -151,6 +173,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_음악 {
@@ -163,6 +187,8 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
 
 .subject-select_체육 {
@@ -175,4 +201,18 @@
   width: 100px;
   height: 100px;
   border-radius: 50px;
+  font-size: 30px;
+  color: red;
+}
+
+.subject-select_실과 {
+  background-color: #27ae60;
+}
+.subject-select_실과5,
+.subject-select_실과6 {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  font-size: 30px;
+  color: red;
 }
