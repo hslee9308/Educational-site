@@ -59,47 +59,11 @@
   color: red;
 }
 
-.subject-select_봄 {
+.subject-select_통합 {
   background-color: #fd79a8;
 }
-.subject-select_봄1,
-.subject-select_봄2 {
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
-  font-size: 30px;
-  color: red;
-}
-
-.subject-select_여름 {
-  background-color: #3498db;
-}
-.subject-select_여름1,
-.subject-select_여름2 {
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
-  font-size: 30px;
-  color: red;
-}
-
-.subject-select_가을 {
-  background-color: #d35400;
-}
-.subject-select_가을1,
-.subject-select_가을2 {
-  width: 100px;
-  height: 100px;
-  border-radius: 50px;
-  font-size: 30px;
-  color: red;
-}
-
-.subject-select_겨울 {
-  background-color: #95a5a6;
-}
-.subject-select_겨울1,
-.subject-select_겨울2 {
+.subject-select_통합1,
+.subject-select_통합2 {
   width: 100px;
   height: 100px;
   border-radius: 50px;

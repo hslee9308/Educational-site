@@ -1,6 +1,10 @@
 .menu-year {
   font-family: "Nanum Myeongjo", serif;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
+}
+
+.menu-year > a {
+  margin: 0px 50px;
 }

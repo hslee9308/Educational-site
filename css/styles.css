@@ -6,8 +6,10 @@
 @import "component/subject-select.css";
 @import "component/class-order.css";
 @import "component/screen-header.css";
+@import "component/find-lesson.css";
 
 body {
   height: 1600px;
   font-weight: 500;
+  background-color: #eddfe4;
 }
